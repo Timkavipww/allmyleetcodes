@@ -1,0 +1,14 @@
+C:\gitlocal\allmyleetcodes\allmyleetcodes\bin\Debug\net8.0\allmyleetcodes.exe
+C:\gitlocal\allmyleetcodes\allmyleetcodes\bin\Debug\net8.0\allmyleetcodes.deps.json
+C:\gitlocal\allmyleetcodes\allmyleetcodes\bin\Debug\net8.0\allmyleetcodes.runtimeconfig.json
+C:\gitlocal\allmyleetcodes\allmyleetcodes\bin\Debug\net8.0\allmyleetcodes.dll
+C:\gitlocal\allmyleetcodes\allmyleetcodes\bin\Debug\net8.0\allmyleetcodes.pdb
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.AssemblyInfoInputs.cache
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.AssemblyInfo.cs
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.csproj.CoreCompileInputs.cache
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.dll
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\refint\allmyleetcodes.dll
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.pdb
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\allmyleetcodes.genruntimeconfig.cache
+C:\gitlocal\allmyleetcodes\allmyleetcodes\obj\Debug\net8.0\ref\allmyleetcodes.dll
